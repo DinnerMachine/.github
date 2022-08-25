@@ -1,0 +1,2 @@
+# .github
+DinnerMachine GitHub homepage.
